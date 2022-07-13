@@ -1,26 +1,28 @@
 <!-- [![Header](https://github.com/anmol438/Dp/blob/main/dp.jpeg "Header")](https://github.com/anmol438/Dp/blob/main/dp.jpeg) -->
 <img src="https://github.com/anmol438/Dp/blob/main/dp.jpeg" width="30px">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
+### Hi, I'm Anmol Gupta 👋
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+Here are some ideas to get you started:
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<!-- Actual text -->
+I am a final year undergrad of Computer Science and Engineering in IIT Kanpur. I love to learn new algorithms, solve problems and explore inDepths of Systems. I am passionate about programming in general and I can code in many different languages, favorite one being Scala. It used to be C++ but once I tried Scala, Man! It is so well structured and powerful!  
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
-
+- 🔭 Exploring the world and beyond
+- 🌱 I’m currently learning Algorithms and System intricacies
+- 🤔 I’m looking for fun things to explore
+- 💬 Ask me about anything related to programming
+- 📫 How to reach me: https://anmol438.github.io/portfolio/
