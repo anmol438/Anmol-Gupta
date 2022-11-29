@@ -3,7 +3,7 @@
 
 ### Hi, I'm Anmol Gupta 👋
 
-I am a final year undergrad of Mechanical Engineering in IIT Kanpur. I love to learn new algorithms, solve problems and explore inDepths of Systems. I am passionate about programming in general and I can code in many different languages, favorite one being C++.
+I am a final year dual degree student of Mechanical Engineering in IIT Kanpur. I love to learn new algorithms, solve problems and explore inDepths of Systems. I am passionate about programming in general and I can code in many different languages, favorite one being C++.
 
 - 🔭 Exploring the world and beyond
 - 🌱 I’m currently learning Algorithms and System intricacies
