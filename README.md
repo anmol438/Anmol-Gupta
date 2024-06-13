@@ -9,4 +9,3 @@ I am a Quantitative Developer at Barclays, Noida. I completed my engineering in 
 - 🌱 I’m currently learning Algorithms and System intricacies
 - 🤔 I’m looking for fun things to explore
 - 💬 Ask me about anything related to programming
-- 📫 How to reach me: https://anmol438.github.io/portfolio/
